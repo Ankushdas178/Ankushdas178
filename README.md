@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently exploring **Cloud Tech.**
 
-- 📬You can reach me [here.](mailto:ankushdas178@gmail.com)
-
 - 👨🏽‍💻 currently working as a content developer at **Sticker.ly India.**
+
+- 📬You can reach me [here.](mailto:ankushdas178@gmail.com)
 
 - ⚡ Fun fact : **Roughly 2,300,000 Gigabytes of data traffic has been distributed across the internet since you started reading this. 🤯**
 
