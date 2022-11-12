@@ -8,7 +8,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushdas178&label=Profile%20views&color=0e75b6&style=flat" alt="ankushdas178" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankushdas178" alt="ankushdas178" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ankushdas178" target="blank"><img src="https://img.shields.io/twitter/follow/ankushdas178?logo=twitter&style=for-the-badge" alt="ankushdas178" /></a> </p>
 
