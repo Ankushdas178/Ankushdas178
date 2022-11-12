@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left"> About me: 🤔</h2>
 
-- 🌱 I’m currently learning **Full-Stack Web development.**
+- 🌱 I’m currently exploring **Cloud Tech.**
 
 - 📬You can reach me [here.](mailto:ankushdas178@gmail.com)
 
