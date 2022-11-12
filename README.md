@@ -10,8 +10,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushdas178&label=Profile%20views&color=0e75b6&style=flat" alt="ankushdas178" /> </p>
 
-<img align="right" src="https://user-images.githubusercontent.com/58916385/201489109-048d24c2-f451-41f2-96aa-70c7d9b8a0a9.gif" alt="Hola Coders" width="400" height="300"/>
-
 <h2 align="left"> About me: 🤔</h2>
 
 - 🌱 I’m currently exploring **Cloud Tech.**
