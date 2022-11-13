@@ -8,11 +8,16 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi <img src="https://github.com/ItsRoy69/ItsRoy69/blob/main/Hi.gif" width="30">, I'm Ankush Das!</h1>
 <h3 align="center">A passionate CSE ( AI & ML) Student.</h3>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Ankushdas178/count.svg" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushdas178&label=Profile%20views&color=0e75b6&style=flat" alt="ankushdas178" /> </p>
 
 <h2 align="left"> About me: :octocat:</h2>
 
-- 🌱 I’m currently exploring **Cloud Tech.**
+- 🌱 I’m currently exploring **Cloud Tech, iOS Development.**
 
 - 👨🏽‍💻 currently working as a content developer at **Sticker.ly India.**
 
