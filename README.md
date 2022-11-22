@@ -29,7 +29,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-<img src = "https://user-images.githubusercontent.com/58916385/201508878-fb1413f0-5ce0-4695-a247-96a2e23b113a.png" alt = "Hello World"></img>
+<img src="https://user-images.githubusercontent.com/58916385/203346281-e9657d7e-bc53-4aca-af88-6f6b0cf6ebac.gif">
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
