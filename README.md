@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left"> About me: </h2>
 
-- 🌱 I’m currently exploring **Cloud Tech, iOS Development.**
+- 🌱 I’m currently exploring **Cloud Tech, Machine Leaarning, NLP.**
 
 - 👨🏽‍💻 Currently working as a content developer at **Sticker.ly India.**
 
