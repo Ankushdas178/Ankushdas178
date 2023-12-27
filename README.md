@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently exploring **Cloud Tech, Machine Leaarning, NLP.**
 
-- 👨🏽‍💻 Currently working as a content developer at **Sticker.ly India.**
+- 👨🏽‍💻 Currently working as a Matter Expert at **Chegg.**
 
 - 📬 You can reach me [here.](mailto:ankushdas178@gmail.com)
 
